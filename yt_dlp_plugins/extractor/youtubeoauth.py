@@ -22,8 +22,8 @@ YOUTUBE_IES = filter(
 __VERSION__ = '2024.10.29'
 
 # YouTube TV (TVHTML5)
-_CLIENT_ID = '861556708454-d6dlm3lh05idd8npek18k6be8ba3oc68.apps.googleusercontent.com'
-_CLIENT_SECRET = 'SboVhoG9s0rNafixCSGGKXAT'
+_CLIENT_ID = '611464989872-d8e7626p3cnhumhetl32ac267ku76gmf.apps.googleusercontent.com'
+_CLIENT_SECRET = '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'
 _SCOPES = 'http://gdata.youtube.com https://www.googleapis.com/auth/youtube'
 
 
